@@ -1,24 +1,41 @@
-# README
+# Micro-Reddit with Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a model of micro-reddit that was created in ruby on rails with no UI
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- Ruby on Rails
 
-* System dependencies
+## Getting Started
 
-* Configuration
+To get a local copy of the repository please run the following commands on your terminal:
 
-* Database creation
+$ cd <folder>
+$ git clone https://github.com/haraphat01/micro-reddit.git
 
-* Database initialization
+## Authors
 
-* How to run the test suite
+👤 **Arafat Akata**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [ @haraphat01](https://github.com/haraphat01)
 
-* Deployment instructions
+👤 **Nusret**
 
-* ...
+- Github: [@Nusret](https://github.com/nusretbutunay)
+
+- Twitter: [@Nusret](https://twitter.com/nusretbutunay)
+
+- Linkedin: [Nusret Butunay](https://www.linkedin.com/in/nusretbutunay)
+
+## �� Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+- The Odin Project
